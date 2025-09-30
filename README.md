@@ -59,7 +59,7 @@ You need a local web server environment that supports PHP and MySQL (e.g., XAMPP
 
 ## 📁 Project Structure (Example)
 
-````
+```bash
 
 ├── app/          \# PHP application logic (controllers, models)
 ├── public/               \# Public facing assets (index.php, CSS, JS, images)
@@ -70,7 +70,7 @@ You need a local web server environment that supports PHP and MySQL (e.g., XAMPP
 ├── database/ db.php            \# Database migration and seed files
 ├── vendor/               \# Composer dependencies
 └── README.md
----
+```
 
 ## 🤝 Contribution
 
