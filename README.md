@@ -1,4 +1,4 @@
-````markdown
+
 # 🕉️ Sri Annapurna Devi Temple, Mandapeta - Official Website
 
 ## Project Overview
